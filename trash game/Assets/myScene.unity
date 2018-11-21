@@ -819,7 +819,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentPoints: 0
   lives: 3
-  generateRate: 7
+  generateRate: 2
 --- !u!1 &677532528
 GameObject:
   m_ObjectHideFlags: 0
