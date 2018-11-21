@@ -14,6 +14,11 @@ public class touched : MonoBehaviour
                 Globals.meter += 0.2;
             }
 
+        }else{
+            Globals.meter--;
+            if(Globals.meter<0){
+                Globals.gg = true;
+            }
         }
 
        //Debug.Log(Globals.score);

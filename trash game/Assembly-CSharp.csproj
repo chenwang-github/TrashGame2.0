@@ -65,6 +65,7 @@
     <Compile Include="Assets\AllCodes\collider.cs" />
     <Compile Include="Assets\AllCodes\displayChance.cs" />
     <Compile Include="Assets\AllCodes\displayScore.cs" />
+    <Compile Include="Assets\AllCodes\endGame.cs" />
     <Compile Include="Assets\AllCodes\falling.cs" />
     <Compile Include="Assets\AllCodes\generateTrash.cs" />
     <Compile Include="Assets\AllCodes\Globals.cs" />

@@ -9,9 +9,9 @@ public class touched_floor : MonoBehaviour
     {
         {
             Globals.meter -= 1;
-            //if(Globals.meter <= 0){
-            //    //Globals.gg = true;
-            //}
+            if(Globals.meter < 0){
+                Globals.gg = true;
+            }
         }
         //Debug.Log("chance = " + Globals.meter);
 
