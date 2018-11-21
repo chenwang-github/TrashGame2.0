@@ -7,6 +7,7 @@ TagManager:
   - recycle
   - trash
   - compost
+  - floor
   layers:
   - Default
   - TransparentFX

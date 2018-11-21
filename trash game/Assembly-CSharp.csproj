@@ -63,22 +63,26 @@
   <ItemGroup>
     <Compile Include="Assets\AllCodes\change.cs" />
     <Compile Include="Assets\AllCodes\collider.cs" />
+    <Compile Include="Assets\AllCodes\displayChance.cs" />
+    <Compile Include="Assets\AllCodes\displayScore.cs" />
     <Compile Include="Assets\AllCodes\falling.cs" />
     <Compile Include="Assets\AllCodes\generateTrash.cs" />
+    <Compile Include="Assets\AllCodes\Globals.cs" />
     <Compile Include="Assets\AllCodes\movement.cs" />
     <Compile Include="Assets\AllCodes\touched.cs" />
+    <Compile Include="Assets\AllCodes\touched_floor.cs" />
     <Compile Include="Assets\GameManager.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/chenwang/Desktop/jakeeqsb/trash game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/chenwang/Desktop/github repo/TrashGame2.0/trash game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/chenwang/Desktop/jakeeqsb/trash game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/chenwang/Desktop/github repo/TrashGame2.0/trash game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/chenwang/Desktop/jakeeqsb/trash game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/chenwang/Desktop/github repo/TrashGame2.0/trash game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/chenwang/Desktop/jakeeqsb/trash game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/chenwang/Desktop/github repo/TrashGame2.0/trash game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
