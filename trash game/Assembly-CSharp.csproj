@@ -73,17 +73,20 @@
     <Compile Include="Assets\AllCodes\touched.cs" />
     <Compile Include="Assets\AllCodes\touched_floor.cs" />
     <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\RPG Food &amp; Drinks Pack\Assets\Scripts\Consumer.cs" />
+    <Compile Include="Assets\RPG Food &amp; Drinks Pack\Assets\Scripts\Rotator.cs" />
+    <None Include="Assets\FoodAndGrocery\Info.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/chenwang/Desktop/TrashGame2.0-jake/trash game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/chenwang/Desktop/TrashGame2.1/trash game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/chenwang/Desktop/TrashGame2.0-jake/trash game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/chenwang/Desktop/TrashGame2.1/trash game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/chenwang/Desktop/TrashGame2.0-jake/trash game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/chenwang/Desktop/TrashGame2.1/trash game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/chenwang/Desktop/TrashGame2.0-jake/trash game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/chenwang/Desktop/TrashGame2.1/trash game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
