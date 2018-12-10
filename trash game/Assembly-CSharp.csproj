@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\3D Models\restart.cs" />
     <Compile Include="Assets\AllCodes\change.cs" />
     <Compile Include="Assets\AllCodes\collider.cs" />
     <Compile Include="Assets\AllCodes\displayChance.cs" />
@@ -70,6 +71,7 @@
     <Compile Include="Assets\AllCodes\generateTrash.cs" />
     <Compile Include="Assets\AllCodes\Globals.cs" />
     <Compile Include="Assets\AllCodes\movement.cs" />
+    <Compile Include="Assets\AllCodes\restartAction.cs" />
     <Compile Include="Assets\AllCodes\touched.cs" />
     <Compile Include="Assets\AllCodes\touched_floor.cs" />
     <Compile Include="Assets\GameManager.cs" />
